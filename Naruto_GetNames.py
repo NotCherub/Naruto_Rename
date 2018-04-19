@@ -1,4 +1,4 @@
-"""This file will get the list of the shippuden episode names from the wikipedia page"""
+"""This file will get the list of the shippuden episode names from the wikipedia page and form the name as SXXEXXX Name """
 
 import urllib.request
 
